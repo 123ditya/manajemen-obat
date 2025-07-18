@@ -1,0 +1,9 @@
+app/
+config/
+database/
+public/
+resources/
+routes/
+...
+README.md
+dump.sql
